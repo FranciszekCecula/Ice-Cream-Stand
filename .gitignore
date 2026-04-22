@@ -1,15 +1,12 @@
-# --- FOLDERY KOMPILACJI ---
-# Tu lądują pliki .exe i .dll, których nikt poza Twoim komputerem nie potrzebuje
+
 bin/
 obj/
 
-# --- KONFIGURACJA IDE ---
-# Twoje osobiste ustawienia VS Code lub Visual Studio
+
 .vs/
 .vscode/
 *.user
 *.suo
 
-# --- PLIKI TYMCZASOWE ---
-# Logi i pliki generowane podczas działania programu
+
 *.log
