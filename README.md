@@ -1,7 +1,7 @@
 # Ice Cream Factory - Design Pattern Simulation 
 
 ## Project Overview
-This project is a C# simulation of an ice cream stand that utilizes the **Factory Method design pattern**[cite: 4, 62]. It demonstrates how to decouple object creation from the main logic, allowing for a flexible production system with multiple product variations.
+This project is a C# simulation of an ice cream stand that utilizes the **Factory Method design pattern**. It demonstrates how to decouple object creation from the main logic, allowing for a flexible production system with multiple product variations.
 
 ## Features
 * **Product Hierarchy:** Implements a base abstract `IceCream` class with four specialized types: Creamy, Fruity, Sorbet, and Italian ice cream.
